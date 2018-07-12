@@ -20,7 +20,7 @@ import javax.swing.JComboBox;
 
 public class DAL {
     private final String driver = "org.gjt.mm.mysql.Driver";
-    private final String url = "jdbc:mysql://localhost/poo2";
+    private final String url = "jdbc:mysql://localhost/SistemaPedido";
     private final String usuario = "root";
     private final String senha = "";
     private Connection conexao;
