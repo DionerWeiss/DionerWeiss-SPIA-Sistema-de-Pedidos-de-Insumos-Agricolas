@@ -1,6 +1,6 @@
 # SPIA
 Sistema de Pedidos de Insumos Agrícolas.
 
-Desenvolvedor: Dioner Weiss.
-
-Tecnologias Utilizadas: Java, MySQL.
+Desenvolvedor: Dioner Weiss. </br>
+Tecnologias Utilizadas: NetBeans, Java, MySQL. </br>
+Descrição: 
