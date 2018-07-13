@@ -23,7 +23,7 @@ Sistema de Pedidos de Insumos Agrícolas.
       3.5.2 - Descrição do Produto: mostra os resultados da pesquisa do item 3.5. Não editável. </br>
       3.5.3 - Quantidade: campo a ser preenchido com a quantidade do produto.</br>
       3.5.4 - Preço: campo com o preço do produto. Não editável. </br>
-  3.6 - Adicionar Produto: insere as informações do item 3.5, devidamente preenchidas, na tabela de pedidos.
-  3.7 - Excluir Produto: remove um item selecionado da tabela de pedidos.
-  3.8 - Alterar Produto: modifica as informações de um item selecionado na tabela de pedidos. Ao clicar em algum item da tabela, as informações sobre aquele produto serão mostradas nos campos do item 3.5. Para alterar alguma informação, basta modificar a informação desejada em algum dos campos (apenas quantidade, já que os demais itens não são editáveis). Após concluir, basta clicar no botão Alterar Produto e as informações serão modificadas na tabela de pedidos.
+  3.6 - Adicionar Produto: insere as informações do item 3.5, devidamente preenchidas, na tabela de pedidos. </br>
+  3.7 - Excluir Produto: remove um item selecionado da tabela de pedidos.</br>
+  3.8 - Alterar Produto: modifica as informações de um item selecionado na tabela de pedidos. Ao clicar em algum item da tabela, as informações sobre aquele produto serão mostradas nos campos do item 3.5. Para alterar alguma informação, basta modificar a informação desejada em algum dos campos (apenas quantidade, já que os demais itens não são editáveis). Após concluir, basta clicar no botão Alterar Produto e as informações serão modificadas na tabela de pedidos. </br>
   3.9 - Tabela de Pedidos: 
