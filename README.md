@@ -7,6 +7,7 @@ Sistema de Pedidos de Insumos Agrícolas.
 
 ## Funcionalidades: </br>
 1 - Interface: Ao executar estará bloqueada. Para desbloqueá-la é nescessário clicar em 'Emitir Pedido' no menu principal ou utilizar o atlaho CTRL+I.</br>
+
 2 - Barra de Menu: </br>
   2.1 - Importar Dados: Importa para o banco de dados as informações contidas nos arquivos 'Cliente.csv', 'Vendedor.csv' e    'Produto.csv'. </br>
   2.2 - Emitir pedido: Desbloqueia a interface para uso. </br>
@@ -15,4 +16,8 @@ Sistema de Pedidos de Insumos Agrícolas.
 3 - Campos:
   3.1 - Nº Pedido: campo com o número do pedido. É sugerido automaticamente e não é editável. </br>
   3.2 - Data: campo para a data. É sugerida a data atual do computador, porém pode ser editada. </br>
-  3.3 - Cliente: 
+  3.3 - Cliente: Barra de pesquisa dos clientes. Ao selecionar um resultado, será mostrado o contato e o endereço do cliente. </br>
+  3.4 - Vendedor: Barra de pesquisa dos vendedores. </br>
+  3.5 - Produto: Barra de pesquisa dos produtos.
+      3.5.1 - Cod. Produto: campo com o código do produto selecionado na pesquisa do item 3.5
+      3.5.2 - Descrição do Produto: 
